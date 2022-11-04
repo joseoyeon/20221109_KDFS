@@ -12,6 +12,6 @@
 * 외교부(F) : [https://www.mofa.go.kr/www/brd/m_4080/list.do?page=1](https://www.mofa.go.kr/www/brd/m_4080/list.do?page=1)
 * 행정안전부(G) : [https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList.do?bbsId=BBSMSTR_000000000008&pageIndex=1](https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardList.do?bbsId=BBSMSTR_000000000008&pageIndex=1)
 
-![image](https://user-images.githubusercontent.com/46625602/199917732-335b8fe8-0e5c-4c49-b81c-9b34f9d5eb59.png)
+![image](https://user-images.githubusercontent.com/46625602/199918121-c707a446-a335-4e34-bcf6-cda2bcff2e73.png)
 
-![image](https://user-images.githubusercontent.com/46625602/199917686-9718e66c-7355-403e-9578-02579576381f.png)
+![image](https://user-images.githubusercontent.com/46625602/199918142-04f92fef-a9d8-4f37-91b7-74349e40c64e.png)
